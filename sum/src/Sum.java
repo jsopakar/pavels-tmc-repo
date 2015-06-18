@@ -1,4 +1,4 @@
-public class Factorial {
+public class Sum {
     public static long factorial(long n) {
         // BEGIN SOLUTION
         long result = 1;
